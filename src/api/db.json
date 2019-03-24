@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1840149,
+      "firstName": "Meta",
+      "lastName": "Schuppe",
+      "email": "Zoey67@yahoo.com"
+    },
+    {
+      "id": 92713241,
+      "firstName": "Kory",
+      "lastName": "Weber",
+      "email": "Junior36@hotmail.com"
+    },
+    {
+      "id": 74751496,
+      "firstName": "Fritz",
+      "lastName": "Yundt",
+      "email": "Jordy.Sipes36@hotmail.com"
+    },
+    {
+      "id": 74434494,
+      "firstName": "Ralph",
+      "lastName": "Heaney",
+      "email": "Steve_Kuvalis4@yahoo.com"
+    }
+  ]
+}
